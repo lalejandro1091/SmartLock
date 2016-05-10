@@ -7,7 +7,7 @@ import android.webkit.WebView;
 import android.webkit.WebViewClient;
 
 public class Navegador extends AppCompatActivity {
-    final String url = "http://smartlock.tunesources.com/services/index.php";
+    final String url = "http://internetdelascosas.freeiz.com/services/index.php";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

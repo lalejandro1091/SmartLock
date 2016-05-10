@@ -11,10 +11,10 @@ class DataController
     
     public function connect()
     {        
-        $hostdb = 'mysql.hostinger.es';
-        $namedb = 'u944924796_sl';
-        $userdb = 'u944924796_sl';
-        $passdb = 'trevize1';
+        $hostdb = 'mysql15.000webhost.com';
+        $namedb = 'a5966859_db';
+        $userdb = 'a5966859_root';
+        $passdb = 'ggbZQW311';
 
         try
         {

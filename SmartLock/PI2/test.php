@@ -2,8 +2,8 @@
 $product=$_POST['product'];
 $code=$_POST['code'];
 
-$connection = mysql_connect("mysql.hostinger.es", "u944924796_sl", "trevize1");
-$db = mysql_select_db("u944924796_sl", $connection);
+$connection = mysql_connect("mysql15.000webhost.com", "a5966859_root", "ggbZQW311");
+$db = mysql_select_db("a5966859_db", $connection);
 
 $query = mysql_query("select * from OwnerCodes where lockSerial='$product' AND code='$code'", $connection);
 $rowsOwner = mysql_num_rows($query);

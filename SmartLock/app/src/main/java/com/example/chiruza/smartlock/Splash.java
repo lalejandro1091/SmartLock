@@ -30,7 +30,7 @@ public class Splash extends AppCompatActivity {
 
             @Override
             public void onFinish() {
-                Intent nuevoform = new Intent(Splash.this,Navegador.class);
+                Intent nuevoform = new Intent(Splash.this,Principal.class);
                 startActivity(nuevoform);
                 finish();
             }
