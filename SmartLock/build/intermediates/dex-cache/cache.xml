@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/chiruza/MEGA/proyectos/proyectosPersonales/SmartLock/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/home/chiruza/MEGA/proyectos/proyectosPersonales/SmartLock/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_fd4671c8e85f7711413c7701e3a4563d1e1141ed/classes.dex" />
+    </item>
+    <item
+        jar="/home/chiruza/MEGA/proyectos/proyectosPersonales/SmartLock/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/home/chiruza/MEGA/proyectos/proyectosPersonales/SmartLock/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_7476c37a6b944480080d79df4900e0de9b965b33/classes.dex" />
+    </item>
+    <item
+        jar="/home/chiruza/MEGA/proyectos/proyectosPersonales/SmartLock/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/home/chiruza/MEGA/proyectos/proyectosPersonales/SmartLock/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_7c51dadcd1931332d79dc73b01f6d1625ad38f84/classes.dex" />
+    </item>
+    <item
+        jar="/home/chiruza/MEGA/proyectos/proyectosPersonales/SmartLock/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ed573484194b8c3156709c9005d9b1e86a39a8b3">
+        <dex dex="/home/chiruza/MEGA/proyectos/proyectosPersonales/SmartLock/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cc01d644ce4217df89d343bb155d5c55a2093951/classes.dex" />
+    </item>
+    <item
+        jar="/home/chiruza/MEGA/proyectos/proyectosPersonales/SmartLock/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/home/chiruza/MEGA/proyectos/proyectosPersonales/SmartLock/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_5a5249924628c28386ac295d0f6fd10477352355/classes.dex" />
+    </item>
+    <item
+        jar="/home/chiruza/MEGA/proyectos/proyectosPersonales/SmartLock/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/home/chiruza/MEGA/proyectos/proyectosPersonales/SmartLock/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_baa287ea21824271469a53bfdb9126fa3a9af3cd/classes.dex" />
+    </item>
+    <item
+        jar="/home/chiruza/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/home/chiruza/MEGA/proyectos/proyectosPersonales/SmartLock/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_279c8557eb28e0b9bec323a94b76188fe78de873/classes.dex" />
+    </item>
+    <item
+        jar="/home/chiruza/MEGA/proyectos/proyectosPersonales/SmartLock/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0cf4f8d0cf8bc008de30a4939a4fd2a8c2ccd7d6">
+        <dex dex="/home/chiruza/MEGA/proyectos/proyectosPersonales/SmartLock/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c3e3a16919de04e852107fd1764cb895291e93d2/classes.dex" />
+    </item>
+
+</items>
